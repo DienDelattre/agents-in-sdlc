@@ -93,4 +93,4 @@ CLI 워크숍을 마무리하려면 [마무리 및 다음 단계][review]로 이
 [previous-lesson]: ../2-build-and-deploy/
 [review]: ../../10-review/
 [playwright-lesson]: ../../6-mcp-playwright/
-[cleanup]: ../#리소스-정리하기
+[cleanup]: ./#리소스-정리하기

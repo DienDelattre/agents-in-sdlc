@@ -147,4 +147,4 @@ Tailspin Toys에는 모델의 일회성 답변 이상이 필요합니다. 후원
 [overview]: ../
 [previous-lesson]: ../1-project-and-model/
 [next-lesson]: ../3-connect-to-site/
-[cleanup]: ../#리소스-정리하기
+[cleanup]: ./#리소스-정리하기

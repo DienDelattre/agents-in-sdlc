@@ -42,8 +42,8 @@ lastUpdated: 2026-09-17
 
 워크숍에 참여하기 전에 다음 항목을 준비했는지 확인합니다.
 
-- [ ] 활성 **Copilot Student, Pro, Pro+, Business, or Enterprise** 플랜이 있는 GitHub 계정
-- [ ] **macOS, Linux, or Windows**를 실행하는 컴퓨터
+- [ ] 활성 **Copilot Student, Pro, Pro+, Business 또는 Enterprise** 플랜이 있는 GitHub 계정
+- [ ] **macOS, Linux 또는 Windows**를 실행하는 컴퓨터
 - [ ] 컴퓨터에 [Git 설치][install-git]
 
 > [!TIP]

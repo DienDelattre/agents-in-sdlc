@@ -157,4 +157,4 @@ Backer Concierge의 기본 구조를 생성하고 카탈로그 그라운딩과 �
 
 [previous-module]: ../1-project-and-model/
 [next-module]: ../3-connect-to-site/
-[cleanup]: ../#리소스-정리
+[cleanup]: ./#리소스-정리

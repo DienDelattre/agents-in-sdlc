@@ -86,5 +86,5 @@ Azure 자격 증명에 액세스할 수 있는 코드는 프록시뿐입니다. 
 [previous-module]: ../2-build-and-deploy/
 [project-module]: ../1-project-and-model/
 [agent-checks]: ../2-build-and-deploy/#로컬에서-에이전트-검사
-[cleanup]: ../#리소스-정리
+[cleanup]: ./#리소스-정리
 [core-review]: ../../10-review/

@@ -103,4 +103,4 @@ Backer Concierge를 스캐폴드하고 Agent Inspector에서 카탈로그 근거
 [previous-lesson]: ../1-project-and-model/
 [model-tests]: ../1-project-and-model/#배포한-모델-테스트
 [next-lesson]: ../3-connect-to-site/
-[cleanup]: ../#리소스-정리
+[cleanup]: ./#리소스-정리

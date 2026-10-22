@@ -213,7 +213,7 @@ Azure 도구를 준비하고, 카탈로그를 내보내고, 배포된 모델이 
 
 [overview]: ../
 [next-lesson]: ../2-build-and-deploy/
-[cleanup]: ../#리소스-정리하기
+[cleanup]: ./#리소스-정리하기
 [azure-free]: https://azure.microsoft.com/pricing/purchase-options/azure-account
 [azure-students]: https://azure.microsoft.com/free/students
 [install-azd]: https://learn.microsoft.com/azure/developer/azure-developer-cli/install-azd

@@ -6,7 +6,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-Escolha um workshop de acordo com o que deseja aprender e com o nível de profundidade que procura. **Primeiros passos** oferece uma introdução guiada ao GitHub Copilot, enquanto **Desenvolvimento em cenários reais** usa um aplicativo completo e o backlog de uma equipe para praticar fluxos de trabalho voltados à produção.
+Escolha um workshop de acordo com o que deseja aprender e com o nível de profundidade que procura. **Primeiros passos** oferece uma introdução guiada ao GitHub Copilot, enquanto **Desenvolvimento em cenários reais** usa uma aplicação completa e o backlog de uma equipe para praticar fluxos de trabalho voltados à produção.
 
 ## Primeiros passos
 
@@ -18,11 +18,11 @@ Crie um Space Quiz a partir de uma pasta vazia, publique-o no GitHub, implemente
 
 ### [Primeiros passos com o GitHub Copilot CLI][first-steps-cli]
 
-Crie o mesmo Space Quiz pelo terminal, revise as diferenças, execute sessões em paralelo em worktrees, planeje antes de editar e crie, mescle e delegue pull requests sem sair do shell.
+Crie o mesmo Space Quiz pelo terminal, revise diffs antes de gravar mudanças no Git, execute sessões em paralelo em worktrees, planeje antes de editar e crie, mescle e delegue pull requests sem sair do shell.
 
 ### [Primeiros passos com o Visual Studio Code][first-steps-vscode]
 
-Crie o Space Quiz no VS Code, teste-o no navegador integrado, publique-o com o Controle do Código-Fonte, trabalhe com problemas e pull requests usando as ferramentas do GitHub e delegue trabalho a uma sessão na nuvem.
+Crie o Space Quiz no VS Code, teste-o no navegador integrado, publique-o com o Controle do Código-Fonte, trabalhe com issues e pull requests usando as ferramentas do GitHub e transfira o trabalho para uma sessão na nuvem.
 
 ## Desenvolvimento em cenários reais
 
@@ -40,4 +40,4 @@ Escolha entre o GitHub Copilot CLI, o aplicativo GitHub Copilot, o agente de nuv
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/

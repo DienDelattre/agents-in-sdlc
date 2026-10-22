@@ -148,4 +148,4 @@ Azure 도구를 준비하고 카탈로그를 내보낸 다음 배포된 모델�
 [install-azure-cli]: https://learn.microsoft.com/cli/azure/install-azure-cli
 [install-azd]: https://learn.microsoft.com/azure/developer/azure-developer-cli/install-azd
 [next-module]: ../2-build-and-deploy/
-[cleanup]: ../#리소스-정리
+[cleanup]: ./#리소스-정리

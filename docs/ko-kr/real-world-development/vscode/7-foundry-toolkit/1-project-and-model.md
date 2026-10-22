@@ -138,7 +138,7 @@ VS Code 작업 영역을 준비하고 카탈로그를 내보냈으며, Foundry �
 
 [overview]: ../
 [next-lesson]: ../2-build-and-deploy/
-[cleanup]: ../#리소스-정리
+[cleanup]: ./#리소스-정리
 [azure-free]: https://azure.microsoft.com/pricing/purchase-options/azure-account
 [azure-students]: https://azure.microsoft.com/free/students
 [foundry-skill]: https://github.com/microsoft/azure-skills/blob/main/skills/microsoft-foundry/SKILL.md

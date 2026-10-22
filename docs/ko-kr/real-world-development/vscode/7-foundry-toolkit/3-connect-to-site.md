@@ -79,5 +79,5 @@ next: false
 실습을 마치면 로컬 서비스를 중지하고 지속적인 비용이 발생하지 않도록 [Azure 리소스를 정리합니다][cleanup]. 그런 다음 핵심 워크숍의 [VS Code 개요][vscode-overview]로 돌아갑니다.
 
 [previous-lesson]: ../2-build-and-deploy/
-[cleanup]: ../#리소스-정리
+[cleanup]: ./#리소스-정리
 [vscode-overview]: ../../
